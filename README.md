@@ -38,17 +38,60 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+Developed by: Sanjay kumar H
+
+RegisterNumber:  23011170
+
+Code:
+
+Half Adder:
+
+![Exp3 ha code](https://github.com/Sanjaykumar0924/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144149258/cc1a7ed9-b1b3-4739-8a64-b948ad5ed953)
+
+Full Adder:
+
+![Exp3 fa code](https://github.com/Sanjaykumar0924/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144149258/ae2e9683-554c-47c2-aeb2-e27dac73d6ad)
+
+Truth Table:
+
+Half Adder:
+
+![Exp3 truthtable (ha)](https://github.com/Sanjaykumar0924/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144149258/e227b5bd-7f9e-460a-a038-0e2464d3549b)
+
+Full Adder:
+
+![Exp3 truthtable (fa)](https://github.com/Sanjaykumar0924/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144149258/d957e4b0-11af-4cbc-ad8d-cc5f2c6bf2c9)
 
 
-### TRUTH TABLE 
+RTL Diagram:
+
+Half Adder:
+
+![Exp3 ha RTL diagram](https://github.com/Sanjaykumar0924/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144149258/beb67eec-069d-49f1-8a4b-152951c73342)
+
+Full Adder:
+
+![Exp3 fa RTL diagram](https://github.com/Sanjaykumar0924/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144149258/c6fa71b1-a77a-4303-b624-71b03f6ddb31)
+
+Output:
+
+Full Adder:
+
+![Exp3 fa wave](https://github.com/Sanjaykumar0924/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144149258/c47b5ba4-0d53-43cb-97b8-0ed2068361b0)
+
+Half Adder:
+
+![halfadder-wave](https://github.com/Sanjaykumar0924/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144149258/e87008c0-8187-4c98-8995-754b443904dc)
+
+
+
+
+
+
+
+
 
 ### Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full
+adder are verified
